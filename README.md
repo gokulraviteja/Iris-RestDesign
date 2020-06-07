@@ -9,7 +9,7 @@ Requirements
 
 How to run:
 
-1) Start Mongo, Cassandra(at 29042) setups locally
+1) Start Mongo, Cassandra(at 29042) setups locally( also create Store db and Store keyspace in mongo and cassandra) 
 2) go build 
 3) ./iris-rest
 
